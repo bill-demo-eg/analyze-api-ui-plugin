@@ -1,5 +1,7 @@
 # analyze-api-ui-plugin
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/34f6af4f-0ecc-470f-a2ce-69fc4fbc0195.svg?orgId=343108082411)](https://app.soluble.cloud/repos/details/github.com/bill-demo-eg/analyze-api-ui-plugin?orgId=343108082411)  
+
 > UI for elasticsearch analyze API
 
 Analyze text with Aalyzer
